@@ -30,3 +30,7 @@ Esta aplicación web desarrollada con React.js permite a los usuarios explorar y
 ## Contribuciones
 
 ¡Contribuciones y sugerencias son bienvenidas! Si encuentras algún problema o tienes ideas para mejorar la aplicación, no dudes en abrir un problema o enviar una solicitud de extracción.
+
+## Licencia
+
+La primer version de este proyecto fue realizada siguiendo el curso "React: De cero a experto ( Hooks y MERN )" de Fernando Herrera, luego yo fui agregando diversas funcionalidades adicionales.
