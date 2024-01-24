@@ -1,6 +1,6 @@
 # Gif Loader App with React.js
 
-![Gif Loader App](https://play-lh.googleusercontent.com/dmx7vIHtHwY_WW6TL6uuGiuj90OCkOk1YnBh1nnubg2a6YG5j4tct84564gb5K3b6g=w240-h480-rw)
+![Gif Loader App](https://developers.giphy.com/)
 
 ## Descripción
 
